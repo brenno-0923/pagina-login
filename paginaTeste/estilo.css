@@ -1,0 +1,16 @@
+
+.box1{ 
+    color: rgb(27, 18, 18);
+    text-align: center;
+    font-size: verdana;
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 400px;   
+    position: absolute; 
+	left: 530px; 
+	top: 250px;
+    background-color: rgba(0, 0, 0, 0.26);
+
+
+
+}
